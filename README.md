@@ -2,17 +2,17 @@
 <h1>Olá, sou Gabriel Azevedo 👨🏻‍💻</h1>
 
 <p>
-Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente cursando Ciência da Computação. Transformo café em código e ideias em soluções reais. Tenho experiência com Java e Spring Boot, desenvolvendo APIs robustas que conectam sistemas e pessoas. 
+Profissional de TI em formação, graduado em Gestão de TI e atualmente cursando Ciência da Computação. Transformo café em código, dados em insights e ideias em soluções reais. Tenho experiência com Python, BI, análise e tratamento de dados, SQL, Java, Spring Boot e interesse em Inteligência Artificial. Vamos conversar?
 </p>
 
 <h2>Sobre mim 🚀</h2>
 
 <ul>
   <li>🎓 Formado em Gestão de TI e graduando em Ciência da Computação.</li>
-  <li>🖥️ Crio páginas web responsivas, úteis e funcionais.</li>
-  <li>☁️ Com experiência em Java com Spring Boot e noções de DevOps.</li>
-  <li>✨ Apaixonado por tecnologia e sempre em busca de aprender e encarar novos desafios.</li>
-  <li>💡 Desenvolvo projetos autorais, compartilho aprendizados e busco soluções que gerem impacto real.</li>
+  <li>📊 Interesse em análise, organização e tratamento de dados.</li>
+  <li>🐍 Experiência com Python e SQL para manipulação e consultas de dados.</li>
+  <li>☁️ Conhecimento em desenvolvimento back-end com Java e Spring Boot.</li>
+  <li>🤖 Curioso e entusiasta sobre Inteligência Artificial e automação de processos.</li>
 </ul>
 
 ---
@@ -35,10 +35,10 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
 
 <div align="left">
   <h2>💻 Linguagens & Frameworks</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,spring" alt="Linguagens e Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js" alt="Linguagens e Frameworks" />
 
   <h2>🛠️ DevOps, Banco de Dados & Outras Tecnologias</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,mysql" alt="DevOps e Outras Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,mysql," alt="DevOps e Outras Tecnologias" />
 </div>
 
 ---
@@ -46,17 +46,17 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
 <div align="left">
   <h2>👨‍💻 Perfil Técnico</h2>
   <p>
-    Dev com foco em back-end. Tenho conhecimento em <strong>Spring Security</strong> para segurança e <strong>testes automatizados</strong> para garantir qualidade e confiabilidade. 
-    Experiência com bancos de dados relacionais como <strong>MySQL</strong>.
+  Possuo experiência em modelagem de banco de dados, construção de consultas SQL e organização de informações para geração de relatórios.
+  Utilizo Python para processamento e tratamento de dados, aplicando boas práticas de padronização e limpeza.
   </p>
-
+  
   <p>
-    Também atuo no desenvolvimento front-end com <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, criando interfaces <strong>responsivas</strong> e <strong>funcionais</strong>.
+  Tenho vivência em desenvolvimento back-end com Java e Spring Boot, o que fortalece minha capacidade de estruturar sistemas organizados e escaláveis.
   </p>
-
+  
   <p>
-    🤖 Entusiasta e curioso sobre <strong>inteligência artificial</strong>, estou sempre em busca de <strong>novas oportunidades</strong> e <strong>desafios</strong>. Registro meus aprendizados e projetos aqui no GitHub, de repositórios de estudo até soluções completas!
-  </p>
+      🤖 Entusiasta e curioso sobre <strong>inteligência artificial</strong>, estou sempre em busca de <strong>novas oportunidades</strong> e <strong>desafios</strong>. Registro meus aprendizados e projetos aqui         no GitHub, de repositórios de estudo até soluções completas!
+    </p>
 
   <p>
     🚀 Achou interessante? Acesse<a href="https://gabrieodev.github.io/Portfolio/" target="_blank"><strong> meu portfólio</strong></a> e confira meus projetos! 💼
