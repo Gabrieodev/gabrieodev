@@ -38,7 +38,7 @@ Profissional de TI em formação, graduado em Gestão de TI e atualmente cursand
   <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js" alt="Linguagens e Frameworks" />
 
   <h2>🛠️ DevOps, Banco de Dados & Outras Tecnologias</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,mysql," alt="DevOps e Outras Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,mysql" alt="DevOps e Outras Tecnologias" />
 </div>
 
 ---
