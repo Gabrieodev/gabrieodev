@@ -28,21 +28,21 @@ Ollama · Streamlit · Docker · Google Cloud · Git · Swagger / OpenAPI · Mav
 
 ## Selected Projects
 
-### [PedeJá API](https://github.com/gabrieodev/pedeja-api)
+### [PedeJá API](https://github.com/Gabrieodev/PedeJa_API)
 > RESTful backend for a food delivery application
 
 Built with **Java 21, Spring Boot, Spring Data JPA, Hibernate and SQLite**. Covers the full domain of a delivery platform — product catalogue, categories, customers, orders, order items and automatic total calculation. Fully documented with Swagger / OpenAPI.
 
 ---
 
-### [Edu — Intelligent Financial Educator](https://github.com/gabrieodev/edu-agente)
+### [Edu — Intelligent Financial Educator](https://github.com/Gabrieodev/assistente-virtual-mercado-financeiro)
 > Generative AI agent for personal finance education
 
 A local LLM-powered agent (Ollama + Streamlit) that teaches financial concepts using the client's own transaction data as practical examples. Deliberately designed to educate, not to advise — no investment recommendations, no access to sensitive data. Includes full documentation: agent specification, knowledge base strategy, system prompts, quality metrics and pitch deck.
 
 ---
 
-### [Imersão DevOps — Alura · Google Cloud](https://github.com/gabrieodev/imersao-devops)
+### [Imersão DevOps — Alura · Google Cloud](https://github.com/Gabrieodev/Imersao-Cloud-DevOps-Alura)
 > Academic API with containerised deployment on Google Cloud
 
 Built with **Python, FastAPI, SQLAlchemy and Docker**. Manages students, courses and enrolments for an educational institution. Containerised from the ground up with Docker and deployed during Alura's DevOps immersion on Google Cloud infrastructure.
