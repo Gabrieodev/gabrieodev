@@ -3,7 +3,7 @@
 # Gabriel Azevedo
 
 **Data Analytics · Software Engineering**
-São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/gabriazevedo/) · [Portfolio](https://gabrieodev.github.io/Portfolio/) · [Email](mailto:gab.almeidaazevedo@gmail.com)
+São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/gabriazevedo/) · [Portfolio](https://github.com/Gabrieodev) · [Email](https://mail.google.com/mail/?view=cm&to=gab.almeidaazevedo@gmail.com)
 
 ---
 
@@ -88,7 +88,7 @@ I am structuring a dedicated **data analytics portfolio** — SQL query collecti
 Open to conversations about data, engineering, and meaningful collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriazevedo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=firefox&logoColor=white)](https://gabrieodev.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gab.almeidaazevedo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Gabrieodev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gab.almeidaazevedo@gmail.com)
 
 </div>
