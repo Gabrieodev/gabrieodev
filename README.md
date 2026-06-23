@@ -28,7 +28,7 @@ Ollama · Streamlit · Docker · Google Cloud · Git · Swagger / OpenAPI · Mav
 
 ## Selected Projects
 
-### [AstroWatch — Near-Earth Object Risk Observatory](https://github.com/Gabrieodev/astrowatch)
+### [AstroWatch — Near-Earth Object Risk Observatory](https://github.com/Gabrieodev/astro-watch)
 > End-to-end data pipeline for monitoring and scoring near-Earth asteroids
 
 Built with **Python, SQLite, Docker and Ollama**. Consumes NASA's NeoWs API to track near-Earth objects, applies a custom risk-scoring algorithm (Min-Max normalisation across distance, velocity and size), and uses a locally-run LLM (Llama 3 via Ollama) to generate plain-language context on each object. Fully containerised, scheduled weekly, and exported to Power BI for visualisation. Zero paid APIs, zero cloud cost.
