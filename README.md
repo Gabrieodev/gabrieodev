@@ -28,10 +28,10 @@ Ollama · Streamlit · Docker · Google Cloud · Git · Swagger / OpenAPI · Mav
 
 ## Selected Projects
 
-### [PedeJá API](https://github.com/Gabrieodev/PedeJa_API)
-> RESTful backend for a food delivery application
+### [AstroWatch — Near-Earth Object Risk Observatory](https://github.com/Gabrieodev/astrowatch)
+> End-to-end data pipeline for monitoring and scoring near-Earth asteroids
 
-Built with **Java 21, Spring Boot, Spring Data JPA, Hibernate and SQLite**. Covers the full domain of a delivery platform — product catalogue, categories, customers, orders, order items and automatic total calculation. Fully documented with Swagger / OpenAPI.
+Built with **Python, SQLite, Docker and Ollama**. Consumes NASA's NeoWs API to track near-Earth objects, applies a custom risk-scoring algorithm (Min-Max normalisation across distance, velocity and size), and uses a locally-run LLM (Llama 3 via Ollama) to generate plain-language context on each object. Fully containerised, scheduled weekly, and exported to Power BI for visualisation. Zero paid APIs, zero cloud cost.
 
 ---
 
@@ -58,7 +58,7 @@ I am structuring a dedicated **data analytics portfolio** — SQL query collecti
 ## What I Am Learning Now
 
 - Analytics Engineering fundamentals — dbt, data modelling patterns
-- Cloud data services — AWS and Google Cloud Platform
+- Cloud data services — Azure and Google Cloud Platform
 - Advanced SQL — window functions, CTEs, query optimisation
 
 ---
