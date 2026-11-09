@@ -79,12 +79,6 @@ I am structuring a dedicated **data analytics portfolio** — SQL query collecti
 
 ---
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieodev&theme=tokyo-night" style="max-width: 100%;">
-</a>
-
----
-
 Open to conversations about data, engineering, and meaningful collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriazevedo/)
